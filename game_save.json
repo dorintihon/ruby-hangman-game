@@ -1,0 +1,9 @@
+{
+  "secret_word": "calculation",
+  "tries": 17,
+  "line": "calc_la____",
+  "invalid_letters": [
+    "load",
+    "b"
+  ]
+}
